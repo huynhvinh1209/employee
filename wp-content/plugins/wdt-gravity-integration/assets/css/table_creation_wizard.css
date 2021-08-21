@@ -1,0 +1,29 @@
+.wdt-gf-date-range-block input {
+    margin-top: -4px;
+}
+
+#wdt-gf-form .postbox {
+    min-width: initial !important;
+    border: 0 !important;
+    background: #fff;
+}
+
+#wdt-gf-form .postbox .inside {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#wdt-gf-column-container .dropdown-menu > li > a,
+#wdt-gf-form-container .dropdown-menu > li > a {
+    white-space: normal !important;
+}
+#wdt-gf-column-container .btn-group.bootstrap-select .inner .text,
+#wdt-gf-form-container .btn-group.bootstrap-select .inner .text {
+    text-align: left !important;
+}
+
+#wdt-gf-column-container .bootstrap-select.btn-group .dropdown-toggle .filter-option,
+#wdt-gf-form-container .bootstrap-select.btn-group .dropdown-toggle .filter-option {
+    width: 98% !important;
+    text-overflow: ellipsis !important;
+}
